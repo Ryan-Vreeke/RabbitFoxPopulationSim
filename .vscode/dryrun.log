@@ -1,4 +1,4 @@
-make --dry-run --keep-going --print-directory
+make --dry-run --always-make --keep-going --print-directory
 make: Entering directory '/home/ryan/Documents/Code/CS3505/A1'
 g++ -g -Wall -o EcoSim EcoSim.cpp
 make: Leaving directory '/home/ryan/Documents/Code/CS3505/A1'
